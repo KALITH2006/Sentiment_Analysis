@@ -239,7 +239,3 @@ Through this project:
 
 ---
 
-
-* 🔥 Make it look more advanced (add badges + metrics section)
-* 🚀 Convert it into a deployable FastAPI project
-* 📄 Give you a strong resume description for this project
